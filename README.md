@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Vicent Payà</h1>
-<h3 align="center">Young and passionate developer in java, i also use Spring boot, and kotlin, developing android applications. All the days I learn something new</h3>
+<h3 align="center">Young and passionate web developer, i Spring boot for the backend and Angular to develop my applications. All the days I learn something new</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
